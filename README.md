@@ -5,7 +5,10 @@ This repo documents my journey learning machine learning fundamentals from scrat
 ## Contents
 
 - `week1_linear_algebra.ipynb` — Linear algebra fundamentals with NumPy: vectors as arrows, matrix multiplication as a transformation (rotation), determinants, and eigenvalues/eigenvectors.
-- `week1_titanic_eda.ipynb` — Exploratory data analysis on the Titanic dataset. Covers basic data inspection (`head`, `info`, `describe`) and survival rate analysis by sex and passenger class.
+- `titanic_eda.ipynb` — Exploratory data analysis on the Titanic dataset.
+  - Week 1: basic data inspection (`head`, `info`, `describe`) and survival rate analysis by sex and passenger class.
+  - Week 2: probability distributions (normal, binomial) via simulation, Bayes' theorem applied to survival probability, and manual variance/standard deviation calculations.
+- `linear-regression.ipynb` — Linear regression built entirely from scratch with NumPy: cost function, gradient descent implementation, and visualization of the fitted line on synthetic data.
 
 ## Goal
 
